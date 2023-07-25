@@ -8,7 +8,7 @@ Live deployed link: https://restful-crud-api-f3x6.onrender.com
 
 The application can create, read, update and delete data, for example: products, in a database. <br />
 
-To create a product with these attributes: <br/>
+To create a product, use these attributes: <br/>
 {                                                                              <br/>
 	"name": "",                                                            <br/>
 	"quantity": ,                                                          <br/>
